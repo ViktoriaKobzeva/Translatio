@@ -1,0 +1,753 @@
+{
+  type FeatureCollection,
+  features [
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol religious-christian,
+        name Аахенский дворец
+      },
+      geometry {
+        type Point,
+        coordinates [
+          6.085739135742187,
+          50.77120783188783
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol religious-christian,
+        name Сен-Медар-де-Суассон
+      },
+      geometry {
+        type Point,
+        coordinates [
+          3.3438777923583984,
+          49.383043299784816
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol religious-christian,
+        name часовня Святого Петра в Оковах
+      },
+      geometry {
+        type Point,
+        coordinates [
+          12.492914199829102,
+          41.89528152466662
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #ff0000,
+        stroke-width 6,
+        stroke-opacity 1
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            6.075439453125,
+            50.78510168548186
+          ],
+          [
+            4.74609375,
+            50.05008477838256
+          ],
+          [
+            4.0924072265625,
+            49.67829251994456
+          ],
+          [
+            3.343276977539062,
+            49.38315505102451
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #ff0000,
+        stroke-width 6,
+        stroke-opacity 1
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            3.3453369140625,
+            49.38773663303067
+          ],
+          [
+            7.536621093749999,
+            45.44471679159555
+          ],
+          [
+            8.2177734375,
+            44.91813929958515
+          ],
+          [
+            9.07470703125,
+            44.574817404670306
+          ],
+          [
+            10.30517578125,
+            44.040218713142146
+          ],
+          [
+            10.78857421875,
+            43.51668853502906
+          ],
+          [
+            11.35986328125,
+            42.98857645832184
+          ],
+          [
+            12.492656707763672,
+            41.89547319285729
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol marker,
+        name Via Lavicana 
+      },
+      geometry {
+        type Point,
+        coordinates [
+          12.50171184539795,
+          41.88924368223226
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #ff0000,
+        stroke-width 6,
+        stroke-opacity 1
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            12.492871284484863,
+            41.89528152466662
+          ],
+          [
+            12.501733303070068,
+            41.88924368223226
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol religious-christian,
+        name церковь Святого Тибуртия 
+      },
+      geometry {
+        type Point,
+        coordinates [
+          12.507247924804688,
+          41.88924368223226
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol religious-christian,
+        name + руины церкви torre pignatarra
+      },
+      geometry {
+        type Point,
+        coordinates [
+          12.551536560058592,
+          41.87799707872868
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol religious-christian,
+        name Палатинский храм 
+      },
+      geometry {
+        type Point,
+        coordinates [
+          12.486562728881836,
+          41.88822134553516
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #ff0000,
+        stroke-width 6,
+        stroke-opacity 1,
+        name Палатинский храм 
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            12.549476623535156,
+            41.87927520155063
+          ],
+          [
+            12.486820220947266,
+            41.88834913851702
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #ff0000,
+        stroke-width 6,
+        stroke-opacity 1
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            12.501926422119139,
+            41.8890519953478
+          ],
+          [
+            12.507247924804688,
+            41.889307577732616
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #ff0000,
+        stroke-width 6,
+        stroke-opacity 1
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            12.50741958618164,
+            41.88924368223226
+          ],
+          [
+            12.549648284912108,
+            41.8793391070207
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol marker,
+        name Тицин
+      },
+      geometry {
+        type Point,
+        coordinates [
+          9.1571044921875,
+          45.184940682819295
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #ff0000,
+        stroke-width 6,
+        stroke-opacity 1
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            12.486305236816404,
+            41.887965758804484
+          ],
+          [
+            11.957244873046873,
+            42.807491865911544
+          ],
+          [
+            11.188201904296873,
+            43.71156424665851
+          ],
+          [
+            10.210418701171875,
+            44.50042343601631
+          ],
+          [
+            9.155731201171877,
+            45.18590859850545
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #ff80c0,
+        stroke-width 6,
+        stroke-opacity 0.8
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            9.154357910156248,
+            45.188812246819055
+          ],
+          [
+            3.34808349609375,
+            49.39309989350566
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol religious-christian,
+        name монастырь Святого Маврикия 
+      },
+      geometry {
+        type Point,
+        coordinates [
+          7.0044708251953125,
+          46.21808931817162
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #00ff00,
+        stroke-width 6,
+        stroke-opacity 1
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            7.004814147949219,
+            46.21808931817162
+          ],
+          [
+            9.155731201171875,
+            45.182036837015886
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol marker,
+        name Золотурн
+      },
+      geometry {
+        type Point,
+        coordinates [
+          7.539196014404297,
+          47.2079660579273
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol marker,
+        name Аргенторат 
+      },
+      geometry {
+        type Point,
+        coordinates [
+          7.7398681640625,
+          48.58251264888238
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #00ff00,
+        stroke-width 6,
+        stroke-opacity 1
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            7.7405548095703125,
+            48.58296689084418
+          ],
+          [
+            7.539196014404297,
+            47.20837421346631
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol marker,
+        name Порт 
+      },
+      geometry {
+        type Point,
+        coordinates [
+          8.44625473022461,
+          49.54392461282136
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #00ff00,
+        stroke-width 6,
+        stroke-opacity 1
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            8.446426391601562,
+            49.544147382400695
+          ],
+          [
+            7.740211486816405,
+            48.58251264888238
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol marker,
+        name Михельштадт 
+      },
+      geometry {
+        type Point,
+        coordinates [
+          9.003467559814453,
+          49.676626315133916
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #00ff00,
+        stroke-width 6,
+        stroke-opacity 1
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            9.003639221191406,
+            49.67695956066327
+          ],
+          [
+            8.446426391601562,
+            49.54392461282136
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol marker,
+        name Оденвальд (6 миль от реки Майн) 
+      },
+      geometry {
+        type Point,
+        coordinates [
+          9.0966796875,
+          49.76751757357524
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #00ff00,
+        stroke-width 6,
+        stroke-opacity 1
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            9.095993041992188,
+            49.767961069424956
+          ],
+          [
+            9.002609252929688,
+            49.677403884483425
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol marker,
+        name Остхайм 
+      },
+      geometry {
+        type Point,
+        coordinates [
+          10.221405029296875,
+          50.46274956681952
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #00ff00,
+        stroke-width 6,
+        stroke-opacity 1
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            10.22003173828125,
+            50.463623767993795
+          ],
+          [
+            9.096508026123047,
+            49.76785019584294
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol religious-christian,
+        name часовня блаженного Мартина 
+      },
+      geometry {
+        type Point,
+        coordinates [
+          10.24200439453125,
+          50.45925260052624
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #00ff00,
+        stroke-width 6,
+        stroke-opacity 1
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            10.221748352050781,
+            50.46296811862805
+          ],
+          [
+            10.242691040039062,
+            50.459034031548036
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol marker,
+        name Ашаффенбург 
+      },
+      geometry {
+        type Point,
+        coordinates [
+          9.145431518554688,
+          49.97816307632653
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #00ff00,
+        stroke-width 6,
+        stroke-opacity 1
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            9.145088195800781,
+            49.978825423265526
+          ],
+          [
+            10.24200439453125,
+            50.45859689056161
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol marker,
+        name Зелигенштадт 
+      },
+      geometry {
+        type Point,
+        coordinates [
+          8.974456787109375,
+          50.044793599665226
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #00ff00,
+        stroke-width 6,
+        stroke-opacity 1
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            8.973770141601562,
+            50.044793599665226
+          ],
+          [
+            9.145431518554688,
+            49.97783189943775
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        marker-color #ff0000,
+        marker-size large,
+        marker-symbol marker,
+        name – поселение «Глава Озера»
+      },
+      geometry {
+        type Point,
+        coordinates [
+          6.928596496582031,
+          46.39738365846471
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #00ff00,
+        stroke-width 6,
+        stroke-opacity 1
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            7.003784179687499,
+            46.219752144776876
+          ],
+          [
+            6.928253173828124,
+            46.39762043138481
+          ]
+        ]
+      }
+    },
+    {
+      type Feature,
+      properties {
+        stroke #00ff00,
+        stroke-width 6,
+        stroke-opacity 1
+      },
+      geometry {
+        type LineString,
+        coordinates [
+          [
+            6.92962646484375,
+            46.39904104733023
+          ],
+          [
+            7.538681030273438,
+            47.20744128190498
+          ]
+        ]
+      }
+    }
+  ]
+}
